@@ -12,3 +12,4 @@ D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-bad9eb\ob
 D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-bad9eb\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_bad9eb.pdb
 D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-bad9eb\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_bad9eb.genruntimeconfig.cache
 D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-bad9eb\obj\Debug\net8.0\ref\api_com_cache_fila_ass_ncrona_e_limita_o_bad9eb.dll
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-bad9eb\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_bad9eb.sourcelink.json

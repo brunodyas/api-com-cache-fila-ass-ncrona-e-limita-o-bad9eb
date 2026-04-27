@@ -1,0 +1,4 @@
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-bad9eb\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_bad9eb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-bad9eb\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_bad9eb.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-bad9eb\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_bad9eb.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-bad9eb\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_bad9eb.csproj.CoreCompileInputs.cache
